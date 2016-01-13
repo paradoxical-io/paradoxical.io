@@ -1606,7 +1606,7 @@ html {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 body {
-  font-family: 'Roboto', "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Futura Book', 'Trebuchet MS', Arial, sans-serif;
   font-size: 14px;
   line-height: 1.42857143;
   color: #555555;
@@ -1695,7 +1695,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: 'Roboto Slab', Georgia, "Times New Roman", Times, serif;
+  font-family: 'Futura', 'Trebuchet MS', Arial, serif;
   font-weight: 500;
   line-height: 1.2;
   color: inherit;
@@ -7563,7 +7563,7 @@ img {
   line-height: 40px;
   font-size: 24px;
   color: #002044;
-  font-family: 'Roboto', "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Futura Book', 'Trebuchet MS', Arial, sans-serif;
 }
 .site-navbar .navbar-brand a:hover,
 .site-navbar .navbar-brand a:active {
